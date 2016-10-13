@@ -1,0 +1,9 @@
+DS_Store
+Thumbs.db
+.log
+.sql
+.sass-cache/
+.codekit-config.json
+.class
+.classpath
+.settings
