@@ -3,4 +3,17 @@
   <groupId>com.test.freelance</groupId>
   <artifactId>webserviceclient</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  
+  
+  <dependencies>
+  
+  <dependency>
+	  <groupId>org.testng</groupId>
+	  <artifactId>testng</artifactId>
+	  <version>6.8</version>
+	  
+   </dependency>
+  
+  </dependencies>
 </project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13477" started-at="2016-11-07T07:26:53Z" finished-at="2016-11-07T07:27:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13477" started-at="2016-11-07T07:26:53Z" finished-at="2016-11-07T07:27:06Z">
+      <class name="com.test.webservice.freelance.WebServiceClient">
+        <test-method status="PASS" signature="initService()[pri:0, instance:com.test.webservice.freelance.WebServiceClient@6ea12c19]" name="initService" is-config="true" duration-ms="2279" started-at="2016-11-07T12:56:53Z" finished-at="2016-11-07T12:56:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initService -->
+        <test-method status="PASS" signature="testWeatherServiceByZipCode()[pri:0, instance:com.test.webservice.freelance.WebServiceClient@6ea12c19]" name="testWeatherServiceByZipCode" duration-ms="11175" started-at="2016-11-07T12:56:55Z" finished-at="2016-11-07T12:57:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWeatherServiceByZipCode -->
+      </class> <!-- com.test.webservice.freelance.WebServiceClient -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
